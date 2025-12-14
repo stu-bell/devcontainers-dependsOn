@@ -4,7 +4,7 @@ The demo feature is defined locally in [.devcontainer/features/dependsOnDemo](.d
 
 When the devcontainer is started, the command `hello` should be available inside the devcontainer.
 
-To test, open this repo in GitHub codespaces and run the command `hello`
+To test, open this repo in [GitHub codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository) and run the command `hello`
 
 Spec: https://containers.dev/implementors/features/#dependsOn
 
